@@ -26,6 +26,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW10bmNkMGM3c2V4eTRkeWVjbnhkYW85OWloMm05eGRod3d5ZnpnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9biHtr8NDpqxmnarQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Video: https://i.imgur.com/gxdLFny.mp4
+
+
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
