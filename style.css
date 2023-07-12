@@ -56,7 +56,7 @@ ul {
     display: flex;
     align-items: flex-end;
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    /*box-shadow: 0 0 30px lightblue; commented this so it looks like the submission*/
 }
 
 .stats-card {
