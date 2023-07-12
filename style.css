@@ -8,19 +8,55 @@ body {
 #tentacles {
     width: 50px;
 }
+ul {
+    list-style-type: none;
+    padding: 0%;
+    margin-left: 60%;
+    position:fixed;
+    display: inline-block;
+    overflow: hidden;
+    width: 40%;
+  }
+  
+  li {
+    display:inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    margin:10px;
+    background-color: #a8b0bc;
+    box-shadow: 0 0 10px lightblue;
+    border-radius: 20px;
+  }
+
+  li a{
+    text-decoration: none;
+    color: #000;
+    
+  }
+  
+  li:hover {
+    background-color: lightblue;
+    box-shadow: 0 0 5px black;
+
+  }
 
 .header {
-    display: flex;
+    display:flex;
+    width: 100%;
     background-color: lightblue;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
-    margin-top: -10px;
+    margin-top: -2%;
+    margin-bottom: 1%;
 }
 
 .stats-container {
     display: flex;
+    align-items: flex-end;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -66,10 +102,18 @@ body {
     text-align: center;
 }
 
-button {
+button, input {
     font-family: 'Cabin';
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+button:active{
+    background-color: #758190;
 }
