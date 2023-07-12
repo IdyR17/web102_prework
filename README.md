@@ -18,24 +18,20 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] A floating navigation bar was added to easily go back and forth between elements, it consists on three buttons: Home, Stats, Games.
-* [ ] I will be adding a search bar soon to filter games.
+* [x] A search bar was added to filter by game name. It has the ability to autopopulate by keystroke (I also added a "Find" button but that isn't necessary as filtered games dynamically change according to the query).
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/Mc42vYN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-The app's asthetics do not look exactly like the prework guide, but the specific styling was already in the project forked from codepath, so I left it as is because I liked the look of it. Learning about applying filters to objects and using reduce on objects to then bring them to the DOM was the most challenging and fun part. I particularly loved the usability of the arrow functions as I haven't used them as much before. I commend the codepath team for such a well-written, fun, engaging and easy to follow pre-work guide. 
+The app's asthetics did not look exactly like the prework guide, but the specific styling was already in the project forked from codepath, so I commented it out in the css file. Learning about applying filters to objects and using reduce on objects to then bring them to the DOM was the most challenging and fun part. I particularly loved the usability of the arrow functions as I haven't used them as much before. I commend the codepath team for such a well-written, fun, engaging and easy to follow pre-work guide. 
 
 ## License
 
