@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mc42vYN"  ><a href="//imgur.com/a/Mc42vYN">Sea Monster Crowdfunding</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/Mc42vYN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
